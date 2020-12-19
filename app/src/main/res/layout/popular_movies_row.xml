@@ -20,6 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="160dp"
         android:orientation="horizontal"
+        android:layout_marginTop="8dp"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         tools:listitem="@layout/movie_item"/>
 

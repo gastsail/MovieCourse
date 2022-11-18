@@ -12,7 +12,6 @@
         android:layout_height="wrap_content"
         android:text="Top Rated Movies"
         android:textStyle="bold"
-        android:textColor="#FFF455DD"
         android:textSize="20sp"/>
 
     <androidx.recyclerview.widget.RecyclerView

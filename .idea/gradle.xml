@@ -15,8 +15,11 @@
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
+<<<<<<< Updated upstream
         <option name="resolveModulePerSourceSet" value="false" />
         <option name="useQualifiedModuleNames" value="true" />
+=======
+>>>>>>> Stashed changes
       </GradleProjectSettings>
     </option>
   </component>
